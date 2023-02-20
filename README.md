@@ -1,8 +1,10 @@
-<<h1 align="center">Hi 👋, I'm soccho</h1>
-<h3 align="center">A computer sciecnce student from Bangladesh</h3>
+Tanver Rahman Soccho
+I'm computer sciecnce student from Bangladesh, I really enjoy learning. i am currenlty doing my master's degree in computer science . i have also a bachelor degree in eletrical and electronic engineering.  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanversoccho&label=Profile%20views&color=0e75b6&style=flat" alt="tanversoccho" /> </p>
-
+Skills and Experience
+⚛ React
+📱 React Native
+💻 HTML, CSS, JS
 - 🌱 I’m currently learning **rust**
 
 - 📫 How to reach me **trshoccho@gmail.com**
