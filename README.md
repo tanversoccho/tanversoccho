@@ -20,25 +20,25 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="TypeScript"  width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Linux"       width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Git"         width="40" height="40" style="padding-right:10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> </a> 
+<img align="left" alt="GitHub"      width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash"        width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Python"      width="40" height="40" style="padding-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> </a> 
+<img align="left" alt="Tensorflow"  width="40" height="40" style="padding-right:10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />  </a> 
+<img align="left" alt="C"           width="40" height="40" style="padding-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /> </a> 
 <img align="left" alt="HTML"        width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS"         width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript"  width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript"  width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="React"       width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS"      width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python"      width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++"         width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub"      width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash"        width="40" height="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="flutter"     width="40" height="40" style="padding-right:10px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /> </a> 
 <img align="left" alt="arduino"     width="40" height="40" style="padding-right:10px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" /> </a> 
 <img align="left" alt="bash"        width="40" height="40" style="padding-right:10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /> </a> 
-<img align="left" alt="c"           width="40" height="40" style="padding-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /> </a> 
 <img align="left" alt="css3"        width="40" height="40" style="padding-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /> </a> 
-<img align="left" alt="flutter"     width="40" height="40" style="padding-right:10px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /> </a> 
-<img align="left" alt="git"         width="40" height="40" style="padding-right:10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> </a> 
-<img align="left" alt="python"      width="40" height="40" style="padding-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> </a> 
-<img align="left" alt="tensorflow"  width="40" height="40" style="padding-right:10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />  </a> 
+
+
 <br />
 
 
