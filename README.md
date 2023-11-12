@@ -1,5 +1,5 @@
 <h1>Tanver Rahman Soccho</h1>
-<p>I'm computer sciecnce student from Bangladesh, I really enjoy learning. i am currenlty doing my master's degree in computer science . i have also a bachelor degree in eletrical and electronic engineering. <p>
+<p>I'm a computer science student from Bangladesh, and I really enjoy learning. I am currently pursuing my master's degree in computer science. I also have a bachelor's degree in electrical and electronic engineering. <p>
 </br>
 <h2>Skills and Experience</h2>
 ⚛ React
