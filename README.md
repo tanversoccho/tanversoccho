@@ -17,23 +17,7 @@ I have a solid background in software development, with a focus on performance, 
 
 ## Career Summary
 
-### .NET Developer at COMCAST, Atlanta, GA (October 2016–Present)
-- Developed and maintained custom data-centric web applications using ASP.NET, C#.NET, and Services with Agile/SCRUM methodology.
-- Successfully completed a $5 million billing project and implemented UI requirements using ASP.NET, JS/jQuery, HTML, CSS, and MS SQL.
-- Created over 20 .NET websites with 100% client satisfaction and on-time completion.
-- Achieved a 20% improvement in ETL/SQL and online component performance.
 
-### .NET Developer at WALGREENS, Boston, MA (January 2011–September 2016)
-- Devised and implemented a Dynamics CRM solution for 47 call centers using the ASP.NET framework with 99%+ uptime.
-- Developed 5+ customized data-centric web applications and optimized SQL database design projects.
-- Increased operational efficiency by 30% through applied reporting solutions.
-
-### Junior Software Engineer at AdsPro Software, New York (September 2014–September 2015)
-- Consulted regularly with customers on project status, proposals, and technical issues.
-- Transformed existing software to correct errors, upgrade interfaces, and improve efficiency.
-
-### Software Development Intern at Kell Tech (September 2015–May 2016)
-- Supported testing and engineering processes, ensuring that completed software met client requirements.
 
 ## Education
 
@@ -57,10 +41,7 @@ American International University - Bangladesh (AIUB)
 - **Soft Skills**: Time management, organizational skills, communication, teamwork, problem-solving, leadership
 - **Hard Skills**: Project management, technical skills, AI, machine learning, cybersecurity
 
-## How to Reach Me
-- 📫 Email: **trshoccho@gmail.com**
-- 📞 Phone: **01745023791**
-- 📍 Address: 90/11 Kalibari Road, Mymensingh
+
 
 ## Connect with Me
 <p align="left">
