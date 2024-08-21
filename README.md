@@ -1,6 +1,6 @@
 # Tanver Rahman Soccho
 
-I am a seasoned Software Engineer with extensive experience in .NET development, specializing in designing and developing data-driven web applications. With over 9 years of professional experience, I have honed my skills in performance optimization, API design, and agile methodologies. Currently, I'm pursuing my master's degree in computer science to further deepen my knowledge and expertise.
+I am a seasoned Software Engineer with extensive experience in .NET development, specializing in designing and developing data-driven web applications. With over  multiple years of professional experience, I have honed my skills in performance optimization, API design, and agile methodologies. Currently, I'm pursuing my master's degree in computer science to further deepen my knowledge and expertise.
 
 ## Skills and Experience
 
